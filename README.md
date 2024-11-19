@@ -1,5 +1,5 @@
 # DAC2025_tmp
-# Anonymous GitHub Repository for GraphWorkload: Fast Dynamic Timing Analysis for Circuits with Graph Representation Learning
+# Anonymous GitHub Repository for GraphDTA: Fast Dynamic Timing Analysis for Circuits with Graph Representation Learning
 
 Welcome to our anonymous GitHub repository! This repository contains the inference code for the final **Joint Model** used in our paper. The code is divided into two parts: **7nm** and **45nm** technology nodes.
 
